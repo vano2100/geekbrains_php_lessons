@@ -33,6 +33,7 @@ case 14:
 	echo 14;
 case 15:
 	echo 15;
+	break;
 default:
 	echo $a;
 }
