@@ -1,0 +1,495 @@
+### 25.05.2019 17:51:07
+../templates/blog.html## <h1>Here's my template</h1>
+
+
+### 25.05.2019 17:55:21
+../templates/blog.html## <h1>Here's my template</h1>
+
+
+### 29.05.2019 17:35:53
+../templates/index.tpl## <h1>Here's my template</h1>
+
+
+### 29.05.2019 17:37:16
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 17:37:42
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 17:44:17
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 17:45:35
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:24:51
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:25:24
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:27:05
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:28:14
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:32:14
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:32:36
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:33:40
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:34:42
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:35:18
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:35:22
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:35:37
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:36:23
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+{{TEST}}
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 18:36:43
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>{{NEWS_TITLE}}</h3>
+    <p>{{NEWS_PREVIEW}}</p>
+    <a href="/newspage/?id_news={{ID_NEWS}}">Подробнее</a>
+</div>
+
+
+
+
+### 29.05.2019 18:40:50
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>{{NEWS_TITLE}}</h3>
+    <p>{{NEWS_PREVIEW}}</p>
+    <a href="/newspage/?id_news={{ID_NEWS}}">Подробнее</a>
+</div>
+
+
+
+
+### 29.05.2019 18:41:36
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>test</h3>
+    <p>test</p>
+    <a href="/newspage/?id_news=1">Подробнее</a>
+</div>
+
+
+
+
+### 29.05.2019 18:41:53
+../templates/newspage.tpl## <h1>{{NEWS_TITLE}}</h1>
+<div class="news_content">{{NEWS_CONTENT}}</div>
+
+
+### 29.05.2019 18:42:34
+../templates/newspage.tpl## <h1>{{NEWS_TITLE}}</h1>
+<div class="news_content">{{NEWS_CONTENT}}</div>
+
+
+### 29.05.2019 18:44:16
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 18:45:04
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 18:45:52
+../templates/newspage.tpl## <h1>test</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 18:47:03
+../templates/newspage.tpl## <h1>test</h1>
+<div class="news_content">test-test-test</div>
+
+
+### 29.05.2019 18:47:10
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 18:50:57
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 18:52:19
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 18:52:29
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>test</h3>
+    <p>test</p>
+    <a href="/newspage/?id_news=1">Подробнее</a>
+</div>
+
+
+
+
+### 29.05.2019 18:52:34
+../templates/newspage.tpl## <h1>test</h1>
+<div class="news_content">test-test-test</div>
+
+
+### 29.05.2019 21:20:31
+../templates/index.tpl## <h1>Here's my template</h1>
+
+
+### 29.05.2019 21:21:51
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 21:22:19
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 21:25:22
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+{{NEWSFEED}}
+
+
+
+
+### 29.05.2019 21:29:41
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>news1</h3>
+    <p>preview-preview1preview-preview1preview-preview1preview-preview1</p>
+    <a href="/newspage/?id_news=1">Подробнее</a>
+</div><div class="news_item">
+    <h3>news2</h3>
+    <p>pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=2">Подробнее</a>
+</div><div class="news_item">
+    <h3>news3</h3>
+    <p>pre3-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=3">Подробнее</a>
+</div>
+
+
+
+
+### 29.05.2019 21:30:07
+../templates/newspage.tpl## <h1>news1</h1>
+<div class="news_content">content-content-content-content-content-content-content-content-content-content-</div>
+
+
+### 29.05.2019 21:34:06
+../templates/newspage.tpl## <h1>news1</h1>
+<div class="news_content">content-content-content-content-content-content-content-content-content-content-</div>
+
+
+### 29.05.2019 21:34:30
+../templates/newspage.tpl## <h1>news2</h1>
+<div class="news_content">content-con2-content-con2-content-con2-content-con2-content-con2-content-con2</div>
+
+
+### 29.05.2019 21:34:35
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 21:34:43
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 29.05.2019 21:39:17
+../templates/newspage.tpl## <h1>news1</h1>
+<div class="news_content">content-content-content-content-content-content-content-content-content-content-</div>
+
+
+### 30.05.2019 15:15:38
+../templates/index.tpl## <h1>Here's my template</h1>
+
+
+### 30.05.2019 15:17:28
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>news1</h3>
+    <p>preview-preview1preview-preview1preview-preview1preview-preview1</p>
+    <a href="/newspage/?id_news=1">Подробнее</a>
+</div><div class="news_item">
+    <h3>news1</h3>
+    <p>pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=2">Подробнее</a>
+</div><div class="news_item">
+    <h3>news3</h3>
+    <p>pre3-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=3">Подробнее</a>
+</div>
+
+
+
+
+### 30.05.2019 15:17:39
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 30.05.2019 15:20:32
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 30.05.2019 15:27:50
+../templates/newspage.tpl## <h1>{{TITLE}}</h1>
+<div class="news_content">{{CONTENT}}</div>
+
+
+### 30.05.2019 15:29:14
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>news1</h3>
+    <p>preview-preview1preview-preview1preview-preview1preview-preview1</p>
+    <a href="/newspage/?id_news=1">Подробнее</a>
+</div><div class="news_item">
+    <h3>news1</h3>
+    <p>pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=2">Подробнее</a>
+</div><div class="news_item">
+    <h3>news3</h3>
+    <p>pre3-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=3">Подробнее</a>
+</div>
+
+
+
+
+### 30.05.2019 15:29:18
+../templates/newspage.tpl## <h1>news1</h1>
+<div class="news_content">content-content-content-content-content-content-content-content-content-content-</div>
+
+
+### 30.05.2019 15:29:29
+../templates/newspage.tpl## <h1>news1</h1>
+<div class="news_content">content-con2-content-con2-content-con2-content-con2-content-con2-content-con2</div>
+
+
+### 30.05.2019 15:29:49
+../templates/newspage.tpl## <h1>news3</h1>
+<div class="news_content">content-con2-content-con2-content-con2-content-con2-content-con2-content-con2</div>
+
+
+### 31.05.2019 16:17:11
+../templates/index.tpl## <h1>Here's my template</h1>
+
+
+### 31.05.2019 16:24:48
+../templates/news.tpl## <h1>Страница новостей</h1>
+
+123
+
+<h2>Лента новостей</h2>
+<div class="news_item">
+    <h3>news1</h3>
+    <p>preview-preview1preview-preview1preview-preview1preview-preview1</p>
+    <a href="/newspage/?id_news=1">Подробнее</a>
+</div><div class="news_item">
+    <h3>news1</h3>
+    <p>pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=2">Подробнее</a>
+</div><div class="news_item">
+    <h3>news3</h3>
+    <p>pre3-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-pre2-</p>
+    <a href="/newspage/?id_news=3">Подробнее</a>
+</div>
+
+
+
+
