@@ -1,0 +1,2 @@
+<h4>{{ID_FEEDBACK}}</h4>
+<p>{{FEEDBACK_USER}}: {{FEEDBACK_BODY}} </p>
